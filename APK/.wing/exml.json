@@ -1,0 +1,31 @@
+{
+  "168846af721": {
+    "path": "..\\resource\\APK.ts",
+    "class": "APK",
+    "parentPath": "",
+    "guideLines": [
+      {
+        "type": "h",
+        "pos": 106
+      },
+      {
+        "type": "h",
+        "pos": 255
+      },
+      {
+        "type": "h",
+        "pos": 232
+      },
+      {
+        "type": "h",
+        "pos": 372
+      }
+    ],
+    "guideLinesEnabled": false
+  },
+  "global": {
+    "gridColor": 8421504,
+    "gridEnabled": false,
+    "gridSize": 20
+  }
+}

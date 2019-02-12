@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="APKSkin" width="640" height="1136" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="168846af721" ></w:Config>
+	<e:Rect fillColor="0x605858" left="0" right="0" top="0" bottom="0"/>
+	<e:Button id="btn" label="下载台球APK" anchorOffsetX="0" width="236.36" horizontalCenter="0" verticalCenter="-72"/>
+	<e:Button id="btnShare" label="分享" x="22" y="1052"/>
+	<e:Group id="grouo" height="100" anchorOffsetY="0" left="0" right="0" bottom="-100"/>
+</e:Skin>
